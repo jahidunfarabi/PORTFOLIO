@@ -16,9 +16,9 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
             aria-label="Homepage"
           >
             <span className="bg-linear-to-r from-white to-gray-300 bg-clip-text text-transparent">
-              Md Jahidun Muntaka
+              Jahidun
             </span>
-            <span className="text-blue-400 drop-shadow-lg">.dev</span>
+            <span className="text-blue-400 drop-shadow-lg">.devdesk</span>
             <div className="absolute -bottom-1 left-0 w-0 h-0.5 bg-linear-to-r from-blue-400 to-purple-500 group-hover:w-full transition-all duration-300"></div>
           </a>
 
